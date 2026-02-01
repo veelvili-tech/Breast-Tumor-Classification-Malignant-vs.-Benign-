@@ -13,7 +13,26 @@ From a business and healthcare operations perspective, this project aims to:
 - Improve consistency in tumor classification
 - Demonstrate how AI models can be translated into deployable, real-world tools
 
+# Key Focus Area
+Insights and recommendations are provided across the following dimensions:
+
+- Diagnostic Accuracy & Risk Reduction
+- Model Reliability & Stability
+- Clinical Interpretability
+- Deployment & Real-World Usability
+
+# Data Overview
+
 # Classification-of-Breast-Tumors
+- Dataset: Breast Cancer Wisconsin (Diagnostic) Dataset
+- Source: Kaggle (Public Dataset)
+- Records: 569 patient samples
+- Features: 30 numerical diagnostic measurements
+- Target Variable:
+      - Malignant (1)
+      - Benign (0)
+
+The dataset represents real clinical measurements such as tumor radius, texture, perimeter, area, concavity, and symmetry.
 
 INTRODUCTION 
 
