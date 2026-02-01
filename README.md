@@ -29,6 +29,8 @@ Insights and recommendations are provided across the following dimensions:
 - Target Variable:
       - Malignant (1)
       - Benign (0)
+  
+The dataset represents real clinical measurements such as tumor radius, texture, perimeter, area, concavity, and symmetry.
 
 # Data Preparation & Quality Checks
 To ensure business-grade reliability and model fairness:
@@ -41,7 +43,25 @@ To ensure business-grade reliability and model fairness:
 
 These steps ensure the model learns clinically meaningful patterns, not noise. 
 
-The dataset represents real clinical measurements such as tumor radius, texture, perimeter, area, concavity, and symmetry.
+# Modeling Approach (High-Level)
+Three machine learning models were evaluated:
+
+- Logistic Regression – transparent and interpretable baseline
+- Random Forest – robust ensemble model with strong generalization
+- XGBoost – high-performance gradient boosting model
+
+Models were assessed using accuracy, precision, recall, F1-score, and cross-validation stability.
+
+# Executive Summary — Key Findings
+If a healthcare stakeholder were to take away three key insights, they would be:
+
+- Machine learning can classify breast tumors with >97% accuracy, demonstrating strong potential as a diagnostic support tool.
+- Random Forest delivers the most stable and reliable performance, making it suitable for real-world clinical deployment.
+- Model interpretability matters — feature importance insights help build clinician trust and adoption.
+
+# Insights Deep Dive
+### 1. Diagnostic Accuracy & Patient Risk
+
 # Classification-of-Breast-Tumors
 INTRODUCTION 
 
