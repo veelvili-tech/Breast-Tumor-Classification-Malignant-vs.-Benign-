@@ -97,15 +97,6 @@ Higher adoption likelihood among clinicians and regulators.
 Transforms a machine learning model into a usable healthcare product, not just a technical experiment.
 <img width="536" height="303" alt="Screenshot 2026-02-01 165134" src="https://github.com/user-attachments/assets/0e1c7424-42bf-4c91-8dd5-18975fcd11ca" />
 
-
-# Deployment Architecture
-- Frontend: Streamlit Web Interface
-- Backend: Pre-trained Random Forest Classifier
-- Hosting: Replit Cloud Environment
-
-**User Flow:**
-Clinical Input → Model Inference → Clear Prediction Output
-
 # Real-World Applications
 
 - Clinical Decision Support: Assist doctors during diagnosis
@@ -126,49 +117,16 @@ Based on the findings, we recommend:
 
 This project demonstrates how data science can be translated into a real, deployable healthcare solution, supporting early detection, operational efficiency, and better patient outcomes—directly contributing to SDG 3: Good Health & Well-Being.
 
-
-
-
-
-
-
-# Classification-of-Breast-Tumors
-INTRODUCTION 
-
-This repository contains all the steps for building a machine learning model to classify breast tumors as benign or malignant using structured medical data. It includes data preprocessing, exploratory analysis, feature selection, model training, evaluation, and performance visualization to support accurate and explainable predictions in healthcare.
-
-# NOTEBOOK_FINAL
-
-Project Overview
-
-The notebook walks through the full process of developing a classification model using supervised learning techniques. It is structured to support both beginners and intermediate learners who want to understand how to build and evaluate models in Python.
-
-# Key Components
-1. Data Preprocessing
-   
-Handling missing values, encoding categorical variables, feature scaling.
-
-3. Exploratory Data Analysis (EDA)
-   
-Visualizations and statistical summaries to understand data distribution and relationships.
-
-5. Feature Selection
-   
-Identifying key predictors that contribute most to classification.
-
-7. Model Building
-   
-Training multiple models including Logistic Regression, Random Forest, and XGBoost
-
-9. Model Evaluation
-    
-Comparing performance using accuracy, precision, recall, F1-score, confusion matrix, and ROC-AUC.
-
-11. Cross-Validation
-    
-Ensuring generalizability with k-fold validation techniques.
-
 # DEPLOYMENT 
+
+### Deployment Architecture
+- Frontend: Streamlit Web Interface
+- Backend: Pre-trained Random Forest Classifier
+- Hosting: Replit Cloud Environment
+
+**User Flow:**
+Clinical Input → Model Inference → Clear Prediction Output
+
 This project includes a Streamlit-based web application for classifying breast tumors (benign vs. malignant) using trained machine learning models. The folder structure supports both backend model logic and frontend user interface integration, making it suitable for deployment on platforms like Streamlit Cloud, Replit, or local servers.
 
 # Project Structure
