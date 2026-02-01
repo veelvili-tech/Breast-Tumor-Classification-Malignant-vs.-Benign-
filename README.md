@@ -66,6 +66,7 @@ If a healthcare stakeholder were to take away three key insights, they would be:
 - Machine learning can classify breast tumors with >97% accuracy, demonstrating strong potential as a diagnostic support tool.
 - Random Forest delivers the most stable and reliable performance, making it suitable for real-world clinical deployment.
 - Model interpretability matters — feature importance insights help build clinician trust and adoption.
+<img width="553" height="310" alt="Screenshot 2026-02-01 165009" src="https://github.com/user-attachments/assets/cfdf6ff9-6859-4526-b58a-42cfab31860e" />
 
 # Insights Deep Dive
 ### 1. Diagnostic Accuracy & Patient Risk
