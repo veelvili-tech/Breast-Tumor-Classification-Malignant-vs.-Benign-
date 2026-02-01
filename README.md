@@ -9,6 +9,7 @@ The **Python code covering the full machine learning workflow**, from data proce
 
 
 <img width="845" height="410" alt="Screenshot 2026-02-01 154141" src="https://github.com/user-attachments/assets/4addaa7b-c1e8-4d6f-8b9b-07774fdfa1ef" />
+
 # Business Objective
 From a business and healthcare operations perspective, this project aims to:
 
