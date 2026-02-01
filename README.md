@@ -58,8 +58,6 @@ Three machine learning models were evaluated:
 Models were assessed using accuracy, precision, recall, F1-score, and cross-validation stability.
 <img width="541" height="287" alt="Screenshot 2026-02-01 154141" src="https://github.com/user-attachments/assets/4addaa7b-c1e8-4d6f-8b9b-07774fdfa1ef" />
 
-
-
 # Executive Summary — Key Findings
 If a healthcare stakeholder were to take away three key insights, they would be:
 
@@ -97,6 +95,8 @@ Higher adoption likelihood among clinicians and regulators.
 
 **Business Impact:**
 Transforms a machine learning model into a usable healthcare product, not just a technical experiment.
+<img width="536" height="303" alt="Screenshot 2026-02-01 165134" src="https://github.com/user-attachments/assets/0e1c7424-42bf-4c91-8dd5-18975fcd11ca" />
+
 
 # Deployment Architecture
 - Frontend: Streamlit Web Interface
