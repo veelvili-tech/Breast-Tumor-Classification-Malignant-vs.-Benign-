@@ -5,6 +5,17 @@ This project simulates the work of a **data science team within a healthcare tec
 
 The solution aligns with **UN Sustainable Development Goal 3 (Good Health & Well-Being)** by leveraging machine learning to improve early detection, reduce diagnostic errors, and support better healthcare outcomes especially in resource-constrained environments.
 
+# Business Objective
+From a business and healthcare operations perspective, this project aims to:
+
+- Reduce diagnostic uncertainty and human error
+
+-Support early intervention and faster clinical decisions
+
+Improve consistency in tumor classification
+
+Demonstrate how AI models can be translated into deployable, real-world tools
+
 # Classification-of-Breast-Tumors
 
 INTRODUCTION 
