@@ -90,7 +90,7 @@ Ensures consistent performance across hospitals, populations, and devices.
 Higher adoption likelihood among clinicians and regulators.
 
 ### 4. Deployment & Accessibility
-- The model was deployed using Streamlit, creating an interactive web application.
+- The **Random Forest model** was deployed using Streamlit, creating an interactive web application.
 - Users can input diagnostic values and receive instant predictions.
 
 **Business Impact:**
