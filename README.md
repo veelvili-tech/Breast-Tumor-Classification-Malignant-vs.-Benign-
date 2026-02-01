@@ -155,7 +155,8 @@ pyproject.toml, uv.lock	Package management and dependency locking.
 
 .replit	Replit-specific configuration for deployment.
 
-# How to Run (Local Setup)
+# How to Run 
+### Local Setup
 
 Install dependencies
 
@@ -165,7 +166,7 @@ Run the app
 
 streamlit run app.py
 
-# Deploy to Streamlit Cloud
+### Deploy to Streamlit Cloud
 
 Push your project to GitHub.
 
@@ -175,7 +176,7 @@ Connect your repo and select app.py as the entry file.
 
 Configure .streamlit/config.toml for appearance or caching if needed.
 
-# Replit Deployment
+### Replit Deployment
 
 This project is also Replit-ready (.replit and uv.lock included).
 
