@@ -7,6 +7,8 @@ The solution aligns with **UN Sustainable Development Goal 3 (Good Health & Well
 
 The **Python code covering the full machine learning workflow**, from data processing to model deployment, can be found here [[link](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-/blob/main/Full%20Code%20Breast%20Tumor%20Classification.ipynb)].
 
+
+<img width="845" height="410" alt="Screenshot 2026-02-01 154141" src="https://github.com/user-attachments/assets/4addaa7b-c1e8-4d6f-8b9b-07774fdfa1ef" />
 # Business Objective
 From a business and healthcare operations perspective, this project aims to:
 
@@ -56,7 +58,7 @@ Three machine learning models were evaluated:
 - XGBoost – high-performance gradient boosting model
 
 Models were assessed using accuracy, precision, recall, F1-score, and cross-validation stability.
-<img width="845" height="410" alt="Screenshot 2026-02-01 154141" src="https://github.com/user-attachments/assets/4addaa7b-c1e8-4d6f-8b9b-07774fdfa1ef" />
+
 
 # Executive Summary — Key Findings
 If a healthcare stakeholder were to take away three key insights, they would be:
