@@ -38,7 +38,7 @@ The dataset represents real clinical measurements such as tumor radius, texture,
 To ensure business-grade reliability and model fairness:
 
 - Removed non-predictive identifiers
-- Encoded clinical diagnosis into binary outcomes
+- Encoded clinical diagnosis into binary outcomes [Malignant = 1 & Benign = 0]
 - Addressed class imbalance using SMOTE to avoid biased predictions
 - Performed feature scaling to ensure consistency across models
 - Conducted correlation analysis to reduce redundancy and overfitting risk
