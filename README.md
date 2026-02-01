@@ -22,8 +22,6 @@ Insights and recommendations are provided across the following dimensions:
 - Deployment & Real-World Usability
 
 # Data Overview
-
-# Classification-of-Breast-Tumors
 - Dataset: Breast Cancer Wisconsin (Diagnostic) Dataset
 - Source: Kaggle (Public Dataset)
 - Records: 569 patient samples
@@ -32,8 +30,19 @@ Insights and recommendations are provided across the following dimensions:
       - Malignant (1)
       - Benign (0)
 
-The dataset represents real clinical measurements such as tumor radius, texture, perimeter, area, concavity, and symmetry.
+# Data Preparation & Quality Checks
+To ensure business-grade reliability and model fairness:
 
+- Removed non-predictive identifiers
+- Encoded clinical diagnosis into binary outcomes
+- Addressed class imbalance using SMOTE to avoid biased predictions
+- Performed feature scaling to ensure consistency across models
+- Conducted correlation analysis to reduce redundancy and overfitting risk
+
+These steps ensure the model learns clinically meaningful patterns, not noise. 
+
+The dataset represents real clinical measurements such as tumor radius, texture, perimeter, area, concavity, and symmetry.
+# Classification-of-Breast-Tumors
 INTRODUCTION 
 
 This repository contains all the steps for building a machine learning model to classify breast tumors as benign or malignant using structured medical data. It includes data preprocessing, exploratory analysis, feature selection, model training, evaluation, and performance visualization to support accurate and explainable predictions in healthcare.
