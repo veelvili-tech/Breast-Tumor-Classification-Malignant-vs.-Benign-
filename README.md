@@ -5,7 +5,7 @@ This project simulates the work of a **data science team within a healthcare tec
 
 The solution aligns with **UN Sustainable Development Goal 3 (Good Health & Well-Being)** by leveraging machine learning to improve early detection, reduce diagnostic errors, and support better healthcare outcomes especially in resource-constrained environments.
 
-**The Python code covering the full machine learning workflow, from data processing to model deployment, can be found here** [[link](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-/blob/main/Full%20Code%20Breast%20Tumor%20Classification.ipynb)].
+**The Python code covering the full machine learning workflow, from data processing to model decelopment, can be found here** [[link](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-/blob/main/Full%20Code%20Breast%20Tumor%20Classification.ipynb)].
 
 
 <img width="845" height="410" alt="Screenshot 2026-02-01 154141" src="https://github.com/user-attachments/assets/4addaa7b-c1e8-4d6f-8b9b-07774fdfa1ef" />
