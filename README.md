@@ -45,6 +45,9 @@ To ensure business-grade reliability and model fairness:
 
 These steps ensure the model learns clinically meaningful patterns, not noise. 
 
+<img width="845" height="410" alt="Screenshot 2026-02-01 153843" src="https://github.com/user-attachments/assets/955373d6-5a70-4a24-8708-e933614ab4ef" />
+
+
 # Modeling Approach (High-Level)
 Three machine learning models were evaluated:
 
