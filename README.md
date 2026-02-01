@@ -56,6 +56,9 @@ Three machine learning models were evaluated:
 - XGBoost – high-performance gradient boosting model
 
 Models were assessed using accuracy, precision, recall, F1-score, and cross-validation stability.
+<img width="541" height="287" alt="Screenshot 2026-02-01 154141" src="https://github.com/user-attachments/assets/4addaa7b-c1e8-4d6f-8b9b-07774fdfa1ef" />
+
+
 
 # Executive Summary — Key Findings
 If a healthcare stakeholder were to take away three key insights, they would be:
