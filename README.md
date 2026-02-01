@@ -90,9 +90,9 @@ Higher adoption likelihood among clinicians and regulators.
 Transforms a machine learning model into a usable healthcare product, not just a technical experiment.
 
 # Deployment Architecture
-Frontend: Streamlit Web Interface
-Backend: Pre-trained Random Forest Classifier
-Hosting: Replit Cloud Environment
+- Frontend: Streamlit Web Interface
+- Backend: Pre-trained Random Forest Classifier
+- Hosting: Replit Cloud Environment
 
 **User Flow:**
 Clinical Input → Model Inference → Clear Prediction Output
