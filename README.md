@@ -56,7 +56,7 @@ Three machine learning models were evaluated:
 - XGBoost – high-performance gradient boosting model
 
 Models were assessed using accuracy, precision, recall, F1-score, and cross-validation stability.
-<img width="541" height="287" alt="Screenshot 2026-02-01 154141" src="https://github.com/user-attachments/assets/4addaa7b-c1e8-4d6f-8b9b-07774fdfa1ef" />
+<img width="845" height="410" alt="Screenshot 2026-02-01 154141" src="https://github.com/user-attachments/assets/4addaa7b-c1e8-4d6f-8b9b-07774fdfa1ef" />
 
 # Executive Summary — Key Findings
 If a healthcare stakeholder were to take away three key insights, they would be:
@@ -64,7 +64,7 @@ If a healthcare stakeholder were to take away three key insights, they would be:
 - Machine learning can classify breast tumors with >97% accuracy, demonstrating strong potential as a diagnostic support tool.
 - Random Forest delivers the most stable and reliable performance, making it suitable for real-world clinical deployment.
 - Model interpretability matters — feature importance insights help build clinician trust and adoption.
-<img width="553" height="310" alt="Screenshot 2026-02-01 165009" src="https://github.com/user-attachments/assets/cfdf6ff9-6859-4526-b58a-42cfab31860e" />
+<img width="845" height="410" alt="Screenshot 2026-02-01 165009" src="https://github.com/user-attachments/assets/cfdf6ff9-6859-4526-b58a-42cfab31860e" />
 
 # Insights Deep Dive
 ### 1. Diagnostic Accuracy & Patient Risk
@@ -95,7 +95,8 @@ Higher adoption likelihood among clinicians and regulators.
 
 **Business Impact:**
 Transforms a machine learning model into a usable healthcare product, not just a technical experiment.
-<img width="536" height="303" alt="Screenshot 2026-02-01 165134" src="https://github.com/user-attachments/assets/0e1c7424-42bf-4c91-8dd5-18975fcd11ca" />
+
+<img width="845" height="410" alt="Screenshot 2026-02-01 165134" src="https://github.com/user-attachments/assets/0e1c7424-42bf-4c91-8dd5-18975fcd11ca" />
 
 # Real-World Applications
 
