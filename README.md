@@ -9,12 +9,9 @@ The solution aligns with **UN Sustainable Development Goal 3 (Good Health & Well
 From a business and healthcare operations perspective, this project aims to:
 
 - Reduce diagnostic uncertainty and human error
-
--Support early intervention and faster clinical decisions
-
-Improve consistency in tumor classification
-
-Demonstrate how AI models can be translated into deployable, real-world tools
+- Support early intervention and faster clinical decisions
+- Improve consistency in tumor classification
+- Demonstrate how AI models can be translated into deployable, real-world tools
 
 # Classification-of-Breast-Tumors
 
