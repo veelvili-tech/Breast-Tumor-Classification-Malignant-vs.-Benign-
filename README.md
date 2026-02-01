@@ -3,7 +3,7 @@ Breast cancer is one of the most prevalent and life-threatening diseases affecti
 
 This project simulates the work of a **data science team within a healthcare technology company** focused on building an **AI-powered clinical decision support system**. The objective is to assist medical professionals by providing fast, reliable, and interpretable predictions on whether a breast tumor is benign or malignant, based on diagnostic measurements.
 
-The solution aligns with **UN Sustainable Development Goal 3 (Good Health & Well-Being)** by leveraging machine learning to improve early detection, reduce diagnostic errors, and support better healthcare outcomes—especially in resource-constrained environments.
+The solution aligns with **UN Sustainable Development Goal 3 (Good Health & Well-Being)** by leveraging machine learning to improve early detection, reduce diagnostic errors, and support better healthcare outcomes especially in resource-constrained environments.
 
 # Classification-of-Breast-Tumors
 
