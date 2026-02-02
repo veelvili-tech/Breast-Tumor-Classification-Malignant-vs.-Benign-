@@ -137,53 +137,53 @@ This project includes a Streamlit-based web application for classifying breast t
 The following are the requirements to run the application which can be found here [[link](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-/blob/main/DEPLOYMENT.zip)]
 
 
-.streamlit/	
+- .streamlit/	
 
-Configuration for Streamlit UI, including layout and theming.
+      Configuration for Streamlit UI, including layout and theming.
 
-assets/
+- assets/
 
-Static assets such as images or data files used in the app.
+      Static assets such as images or data files used in the app.
 
-attached_assets/	
+- attached_assets/	
 
-Additional files, possibly icons or supporting visuals.
+      Additional files, possibly icons or supporting visuals.
 
-app.py	
+- app.py	
 
-Main entry point for the Streamlit app – runs the frontend interface.
+      Main entry point for the Streamlit app – runs the frontend interface.
 
-app_fixed.py, app.py.bak	
+- app_fixed.py, app.py.bak	
 
-Alternative or backup versions of the app file.
+      Alternative or backup versions of the app file.
 
-model.py	
+- model.py	
 
-Contains the machine learning model loading and prediction logic.
+      Contains the machine learning model loading and prediction logic.
 
-utils.py	
+- utils.py	
 
-Helper functions for data processing and utility tasks.
+      Helper functions for data processing and utility tasks.
 
-model_performance.py	
+- model_performance.py	
 
-Script to analyze and visualize model evaluation metrics.
+      Script to analyze and visualize model evaluation metrics.
 
-breast_cancer_awareness.py
+- breast_cancer_awareness.py
 
-Likely contains visual or educational content related to awareness.
+      Likely contains visual or educational content related to awareness.
 
-generated-icon.png	
+- generated-icon.png	
 
-Icon for branding in the app UI.
+      Icon for branding in the app UI.
 
-pyproject.toml, uv.lock	
+- pyproject.toml, uv.lock	
 
-Package management and dependency locking.
+      Package management and dependency locking.
 
-.replit	
+- .replit	
 
-Replit-specific configuration for deployment.
+      Replit-specific configuration for deployment.
 
 # How to Run 
 ### Local Setup
