@@ -134,29 +134,41 @@ Clinical Input → Model Inference → Clear Prediction Output
 This project includes a Streamlit-based web application for classifying breast tumors (benign vs. malignant) using trained machine learning models. The folder structure supports both backend model logic and frontend user interface integration, making it suitable for deployment on platforms like Streamlit Cloud, Replit, or local servers.
 
 # Project Structure
-.streamlit/	Configuration for Streamlit UI, including layout and theming.
+.streamlit/	
+Configuration for Streamlit UI, including layout and theming.
 
-assets/	Static assets such as images or data files used in the app.
+assets/	
+Static assets such as images or data files used in the app.
 
-attached_assets/	Additional files, possibly icons or supporting visuals.
+attached_assets/	
+Additional files, possibly icons or supporting visuals.
 
-app.py	Main entry point for the Streamlit app – runs the frontend interface.
+app.py	
+Main entry point for the Streamlit app – runs the frontend interface.
 
-app_fixed.py, app.py.bak	Alternative or backup versions of the app file.
+app_fixed.py, app.py.bak	
+Alternative or backup versions of the app file.
 
-model.py	Contains the machine learning model loading and prediction logic.
+model.py	
+Contains the machine learning model loading and prediction logic.
 
-utils.py	Helper functions for data processing and utility tasks.
+utils.py	
+Helper functions for data processing and utility tasks.
 
-model_performance.py	Script to analyze and visualize model evaluation metrics.
+model_performance.py	
+Script to analyze and visualize model evaluation metrics.
 
-breast_cancer_awareness.py	Likely contains visual or educational content related to awareness.
+breast_cancer_awareness.py	
+Likely contains visual or educational content related to awareness.
 
-generated-icon.png	Icon for branding in the app UI.
+generated-icon.png	
+Icon for branding in the app UI.
 
-pyproject.toml, uv.lock	Package management and dependency locking.
+pyproject.toml, uv.lock	
+Package management and dependency locking.
 
-.replit	Replit-specific configuration for deployment.
+.replit	
+Replit-specific configuration for deployment.
 
 # How to Run 
 ### Local Setup
