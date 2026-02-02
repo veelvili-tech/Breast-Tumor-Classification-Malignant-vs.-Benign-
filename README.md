@@ -143,47 +143,47 @@ Configuration for Streamlit UI, including layout and theming.
 
 - assets/
 
-      Static assets such as images or data files used in the app.
+Static assets such as images or data files used in the app.
 
 - attached_assets/	
 
-      Additional files, possibly icons or supporting visuals.
+Additional files, possibly icons or supporting visuals.
 
 - app.py	
 
-      Main entry point for the Streamlit app – runs the frontend interface.
+Main entry point for the Streamlit app – runs the frontend interface.
 
 - app_fixed.py, app.py.bak	
 
-      Alternative or backup versions of the app file.
+Alternative or backup versions of the app file.
 
 - model.py	
 
-      Contains the machine learning model loading and prediction logic.
+Contains the machine learning model loading and prediction logic.
 
 - utils.py	
 
-      Helper functions for data processing and utility tasks.
+Helper functions for data processing and utility tasks.
 
 - model_performance.py	
 
-      Script to analyze and visualize model evaluation metrics.
+Script to analyze and visualize model evaluation metrics.
 
 - breast_cancer_awareness.py
 
-      Likely contains visual or educational content related to awareness.
+Likely contains visual or educational content related to awareness.
 
 - generated-icon.png	
 
-      Icon for branding in the app UI.
+Icon for branding in the app UI.
 
 - pyproject.toml, uv.lock	
 
-      Package management and dependency locking.
+Package management and dependency locking.
 
 - .replit	
 
-      Replit-specific configuration for deployment.
+Replit-specific configuration for deployment.
 
 # How to Run 
 ### Local Setup
