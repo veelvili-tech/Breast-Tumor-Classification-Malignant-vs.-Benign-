@@ -119,7 +119,7 @@ Based on the findings, we recommend:
 
 # Business & Social Impact
 
-This project demonstrates how data science can be translated into a real, deployable healthcare solution, supporting early detection, operational efficiency, and better patient outcomes—directly contributing to SDG 3: Good Health & Well-Being.
+This project demonstrates how data science can be translated into a real, deployable healthcare solution, supporting early detection, operational efficiency, and better patient outcomes, directly contributing to SDG 3: Good Health & Well-Being.
 
 # DEPLOYMENT 
 
