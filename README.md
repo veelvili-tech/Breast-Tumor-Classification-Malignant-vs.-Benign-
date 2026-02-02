@@ -134,7 +134,7 @@ Clinical Input → Model Inference → Clear Prediction Output
 This project includes a Streamlit-based web application for classifying breast tumors (benign vs. malignant) using trained machine learning models. The folder structure supports both backend model logic and frontend user interface integration, making it suitable for deployment on platforms like Streamlit Cloud, Replit, or local servers.
 
 # Project Structure
-The following are the requirements to run the application which can be found here[[link](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-/blob/main/DEPLOYMENT.zip)]
+The following are the requirements to run the application which can be found here [[link](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-/blob/main/DEPLOYMENT.zip)]
 
 
 .streamlit/	
