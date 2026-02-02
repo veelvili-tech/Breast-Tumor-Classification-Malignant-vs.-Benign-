@@ -137,7 +137,8 @@ This project includes a Streamlit-based web application for classifying breast t
 The following are the requirements to run the application which can be found here [[link](https://github.com/veelvili-tech/Breast-Tumor-Classification-Malignant-vs.-Benign-/blob/main/DEPLOYMENT.zip)]
 
 
-- .streamlit/	
+- .streamlit/
+
 Configuration for Streamlit UI, including layout and theming.
 
 - assets/
