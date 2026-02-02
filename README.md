@@ -61,7 +61,7 @@ Three machine learning models were evaluated:
 Models were assessed using accuracy, precision, recall, F1-score, and cross-validation stability.
 
 
-# Executive Summary — Key Findings
+# Executive Summary (Key Findings)
 If a healthcare stakeholder were to take away three key insights, they would be:
 
 - Machine learning can classify breast tumors with >97% accuracy, demonstrating strong potential as a diagnostic support tool.
