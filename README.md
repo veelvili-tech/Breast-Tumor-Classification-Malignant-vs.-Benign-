@@ -186,6 +186,10 @@ Package management and dependency locking.
 Replit-specific configuration for deployment.
 
 # How to Run 
+The interface if application is deployed using Streamlit would look like this:
+<img width="452" height="210" alt="Picture1" src="https://github.com/user-attachments/assets/3e01fb5b-67a3-4a83-82ac-027e3c78c82f" />
+
+
 ### Local Setup
 
 Install dependencies
