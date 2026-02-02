@@ -138,8 +138,7 @@ The following are the requirements to run the application which can be found her
 
 
 - .streamlit/	
-
-      Configuration for Streamlit UI, including layout and theming.
+Configuration for Streamlit UI, including layout and theming.
 
 - assets/
 
