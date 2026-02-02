@@ -103,10 +103,10 @@ Transforms a machine learning model into a usable healthcare product, not just a
 
 # Real-World Applications
 
-- Clinical Decision Support: Assist doctors during diagnosis
-- Medical Training: Educational tool for students and practitioners
-- Telemedicine: Remote screening support
-- Healthcare AI Prototyping: Foundation for EMR integration
+- **Clinical Decision Support**: Assist doctors during diagnosis
+- **Medical Training**: Educational tool for students and practitioners
+- **Telemedicine**: Remote screening support
+- **Healthcare AI Prototyping**: Foundation for EMR integration
 
 # Recommendations
 Based on the findings, we recommend:
